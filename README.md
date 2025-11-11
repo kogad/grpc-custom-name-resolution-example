@@ -1,7 +1,5 @@
 # Custom Name Resolution Demo
 
-## Test Failover
-
 Run in 3 terminals:
 
 ```bash
